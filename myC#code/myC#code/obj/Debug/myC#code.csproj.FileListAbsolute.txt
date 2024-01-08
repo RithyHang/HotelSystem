@@ -1,0 +1,10 @@
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\bin\Debug\myC#code.exe.config
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\bin\Debug\myC#code.exe
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\bin\Debug\myC#code.pdb
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\bin\Debug\ConsoleTables.dll
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\bin\Debug\ConsoleTables.pdb
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\obj\Debug\myC#code.csproj.AssemblyReference.cache
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\obj\Debug\myC#code.csproj.CoreCompileInputs.cache
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\obj\Debug\myC#code.csproj.CopyComplete
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\obj\Debug\myC#code.exe
+E:\SETEC\YEAR2\Y2S1\C# ii\myC#code\myC#code\obj\Debug\myC#code.pdb
